@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_WebPizzaPortal.-1562555803.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="WebPizzaPortal" t="IncludeRecursive">
+        <e p="Controller" t="Include">
+          <e p="OrderController.cs" t="Include" />
+          <e p="PizzaMenuController.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="OrderModel.cs" t="Include" />
+          <e p="PizzaModel.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Settings" t="Include">
+          <e p="OrderService.cs" t="Include" />
+          <e p="PizzaService.cs" t="Include" />
+          <e p="WebPizzaPortalDatabaseSettings.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebPizzaPortal.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebPizzaPortal.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="WebPizzaPortal.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
